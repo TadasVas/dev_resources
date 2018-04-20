@@ -12,7 +12,7 @@
 
 - ["awesome.re"](https://github.com/sindresorhus/awesome/blob/master/readme.md) 
 
-## Insights/Guides
+## Guides
 - [Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
 >"Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops."
 - [10 Tips To Host Your Web Apps For Free](https://blog.patricktriest.com/host-webapps-free/) 2017-08-27
@@ -33,7 +33,7 @@
 
 - Learning Resources:
   - [RealPython.com Tutorials](https://realpython.com/tutorials/)
-  - [FullStackPython.com](https://www.fullstackpython.com/table-of-contents.html) and [blog](https://www.fullstackpython.com/table-of-contents.html
+  - [FullStackPython.com](https://www.fullstackpython.com/table-of-contents.html) and [blog](https://www.fullstackpython.com/table-of-contents.html)
   
 - Documentation:
 
