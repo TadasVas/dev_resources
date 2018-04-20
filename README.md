@@ -2,11 +2,11 @@
 
 ## Contents
 - [Resources](#resources)
-- [Insights](#insights)
+- [Guides](#guides)
 - [Cheatsheets](#cheatsheets)
 - [CSS](#css)
 - [Python](#python)
-- [Data Science](#data science)
+- [Data Science](#data_science)
 
 ## Resources
 
@@ -24,7 +24,8 @@
 ## CSS
 - [Mozilla.org CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-## Python || [Main](https://www.python.org/) || [Doc](https://docs.python.org) || [Package Index](https://pypi.org/)
+## Python
+|| [Main](https://www.python.org/) || [Doc](https://docs.python.org) || [Package Index](https://pypi.org/)
 
 - Tutorials/Projects (beginner lvl):
     - [Bitcoin Price Notifications (realpython.com)](https://realpython.com/python-bitcoin-ifttt/) 2018-01-12 || virtualenv, ifttt, HTTP requests, GET
@@ -36,6 +37,6 @@
   
 - Documentation:
 
-## Data Science
+## Data_Science
 - Blogs:
   - [Storytelling With Data](http://www.storytellingwithdata.com/) by Cole Nussbaumer Knaflic
